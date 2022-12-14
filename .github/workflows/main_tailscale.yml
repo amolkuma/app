@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'tailscale'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C5BE3560A92444495BFD4FD6D72F8C4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BD0E1A481C0458586FADF10D7BBB2AE }}
